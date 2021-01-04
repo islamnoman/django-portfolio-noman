@@ -1,0 +1,1 @@
+web: gunicorn noman_portfolio.wsgi
